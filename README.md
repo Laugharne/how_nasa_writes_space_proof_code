@@ -1,7 +1,11 @@
 # [](https://youtu.be/GWYhtksrmhE?t=0) Introduction to NASA's Code Rules
 
 ```
-This is a transcription of a YouTube video, which I found particularly relevant.
+This is a transcription of a YouTube video. Among the relevant resources for learning to code, I found this video particularly interesting.
+
+This content presents the opinions and perspectives of industry experts or other individuals.   The opinions expressed in this content do not necessarily reflect my opinion.
+
+Readers are encouraged to verify the information on their own and seek professional advice before making any decisions based on this content.
 ```
 
 **Section Overview**: In this section, we learn about the importance of writing reliable and safe code for production environments, particularly in scenarios involving extreme safety measures. We explore **NASA's set of rules** known as the *"Power of 10"* that are derived from their experience in developing software for space missions.
